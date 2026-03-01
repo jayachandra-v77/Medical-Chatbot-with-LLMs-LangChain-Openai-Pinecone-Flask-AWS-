@@ -1,18 +1,18 @@
 ## Medical-Chatbot-with-LLMS-LangChain-Openai-Pinecone-Flasg-AWS
 
 
-# How to run?
+## How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/jayachandra-v77/Medical-Chatbot-with-LLMs-LangChain-Openai-Pinecone-Flask-AWS-.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n medibot python=3.10 -y
+conda create -n medibot python=3.11.7 -y
 ```
 
 ```bash
